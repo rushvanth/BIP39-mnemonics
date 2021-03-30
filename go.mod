@@ -1,4 +1,4 @@
-module example.com/mnemonics
+module  github.com/rushvanth/BIP39-mnemonics
 
 go 1.16
 
